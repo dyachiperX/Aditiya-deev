@@ -1,6 +1,6 @@
 # Aditiya
 
-cinta dunia digital
+Cinta Itu Seperti Malwere (love is like malwere)
 
 In this complex digital world, there exists a computer program named Aiden. Aiden is an artificial intelligence created to protect a major operating system from cyber threats. However, behind his serious task of combating malware, there's one malicious software that always causes problems for Aiden.
 
